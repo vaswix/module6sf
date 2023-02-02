@@ -1,0 +1,29 @@
+.message-input {
+    height: 35px;
+    width: 300px;
+}
+
+.btn {
+    height: 41px;
+    width: 100px;
+}
+
+.message-send:hover {
+    background-color: crimson;
+}
+
+.geolocation-send:hover {
+    background-color: chartreuse;
+}
+
+.message-box {
+    margin-top: 20px;
+    width: 510px;
+    height: 600px;
+    border: 2px black dashed;
+    border-radius: 10px;
+}
+
+#output {
+    margin: 0 15px;
+}
